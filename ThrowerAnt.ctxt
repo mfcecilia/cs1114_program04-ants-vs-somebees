@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ThrowerAnt()
+comment0.text=\r\n\ Creates\ a\ new\ ThrowerAnt\ object.\r\n
+comment1.params=
+comment1.target=void\ throwing()
+comment1.text=\r\n\ throws\ the\ leaf\ every\ 120\ turns\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ runs\ the\ specific\ behavior\r\n
+numComments=3

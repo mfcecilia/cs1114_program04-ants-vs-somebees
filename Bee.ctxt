@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bee()
+comment0.text=\r\n\ Creates\ a\ new\ Bee\ object.\r\n
+comment1.params=
+comment1.target=int\ getHealth()
+comment1.text=\r\n\ returns\ the\ ant's\ current\ health\r\n\ @return\ the\ health\r\n
+comment2.params=n
+comment2.target=void\ injure(int)
+comment2.text=\r\n\ reduces\ the\ ant's\ health\ by\ the\ provided\ amount.\r\n\ when\ the\ ant's\ health\ reaches\ zero,\ \r\n\ it\ should\ remove\ itself\ from\ the\ colony\r\n\ @param\ n\ equals\ the\ amount\ it\ gets\ hurt\r\n
+comment3.params=
+comment3.target=void\ fly()
+comment3.text=\r\n\ moves\ if\ it's\ not\ in\ contact\ with\ an\ ant.\r\n
+comment4.params=
+comment4.target=void\ hit()
+comment4.text=\r\n\ if\ a\ leaf\ hits\ it,\ it\ gets\ injured\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ executes\ methods\ which\r\n\ give\ this\ actor\ it's\ unique\ behavior\r\n
+numComments=6

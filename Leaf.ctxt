@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Leaf()
+comment0.text=\r\n\ Creates\ a\ new\ Leaf\ object.\r\n
+comment1.params=
+comment1.target=void\ travel()
+comment1.text=\r\n\ carries\ the\ leaf\ across\ the\ world\ until\ it\ hits\ a\ bee\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ executes\ methods\ which\r\n\ give\ this\ actor\ it's\ unique\ behavior\r\n
+numComments=3
